@@ -1,3 +1,7 @@
+/**
+ * @todo Implement navigator address bar, backward and forward navigation
+ */
+
 export class RouterModule {
     constructor() {
         this.routes = [

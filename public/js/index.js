@@ -1,3 +1,7 @@
+/**
+ * @todo Create firebase realtime database accessor module
+ */
+
 import { FirebaseModule } from './class/Firebase.mjs';
 import { AuthenticationModule } from './class/Authentication.mjs'
 import { RouterModule } from './class/Router.mjs'
